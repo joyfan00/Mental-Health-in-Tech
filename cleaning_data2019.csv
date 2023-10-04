@@ -1,0 +1,127 @@
+,self_employed,no_employees,tech_company,benefits,care_options,wellness_program,seek_help,anonymity,leave,supervisor,coworkers,phys_health,mental_health,work_interfere,treatment,family_history,obs_consequence,phys_health_interview,mental_health_interview,age,gender,country,state
+0,No,26-100,Yes,Not sure,No,Yes,Yes,Not sure,Very easy,Yes,Yes,5.0,5.0,,No,No,No,Yes,Maybe,25,M,United States of America,NE
+1,No,26-100,Yes,Yes,No,No,Yes,Yes,Not sure,Some,Some,5.0,7.0,,No,Yes,No,No,No,51,M,United States of America,NE
+2,No,26-100,Yes,Not sure,No,No,Not sure,Not sure,Somewhat difficult,No,Some,5.0,4.0,,No,Not sure,No,Maybe,No,27,M,United States of America,IL
+3,No,100-500,Yes,Not sure,No,Yes,Yes,Yes,Very easy,Yes,Some,1.0,3.0,,No,Yes,No,No,No,37,M,United States of America,NE
+4,No,26-100,Yes,Not sure,No,Not sure,Not sure,Not sure,Not sure,No,No,4.0,4.0,,No,No,,No,No,46,M,United States of America,NE
+5,No,100-500,Yes,Yes,No,No,No,Not sure,Somewhat difficult,No,Yes,6.0,5.0,,Yes,Yes,No,No,No,36,F,United States of America,NE
+6,No,26-100,Yes,Yes,Yes,No,Not sure,Yes,Somewhat easy,Some,Some,5.0,5.0,,Yes,Yes,No,Yes,No,39,F,United States of America,NE
+12,No,More than 1000,Yes,Not sure,No,No,No,Yes,Somewhat easy,Yes,Some,7.0,7.0,,Yes,Yes,,Maybe,No,31,M,United States of America,CT
+13,No,500-1000,Yes,Yes,Yes,Yes,Not sure,Not sure,Somewhat difficult,Yes,Yes,7.0,5.0,,Yes,Yes,No,No,No,37,M,United States of America,GA
+14,No,100-500,Yes,Yes,Yes,Yes,Not sure,Not sure,Somewhat difficult,No,No,7.0,7.0,,Yes,No,Yes,Yes,No,26,F,United States of America,PA
+16,No,100-500,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Yes,7.0,9.0,,Yes,Yes,No,Maybe,No,35,M,United States of America,NC
+18,No,100-500,Yes,Yes,No,Yes,Not sure,Yes,Very easy,Yes,Yes,6.0,6.0,,No,Yes,No,No,No,32,F,United States of America,NY
+19,No,More than 1000,Yes,Yes,Yes,Yes,Yes,Not sure,Not sure,Some,No,7.0,6.0,,Yes,Not sure,No,No,No,37,M,United States of America,WA
+20,No,6-25,Yes,Not sure,No,No,No,Not sure,Somewhat easy,Some,Yes,8.0,7.0,,No,Not sure,No,No,No,41,M,United States of America,TN
+21,No,100-500,Yes,Yes,Yes,Yes,Yes,Not sure,Not sure,Yes,Yes,10.0,10.0,,Yes,Yes,Yes,No,No,40,F,United States of America,NY
+22,No,500-1000,Yes,Not sure,No,No,No,Yes,Neither easy nor difficult,Yes,Yes,9.0,5.0,,Yes,Not sure,No,Yes,No,37,M,United States of America,NY
+23,No,100-500,Yes,Yes,Yes,Yes,Yes,Not sure,Neither easy nor difficult,Some,No,6.0,3.0,,Yes,Yes,No,No,No,53,M,United States of America,OR
+24,No,6-25,Yes,Not sure,No,No,No,Not sure,Very easy,No,Yes,1.0,1.0,,Yes,Yes,Maybe,Yes,No,29,M,United States of America,TN
+25,No,500-1000,Yes,Not sure,No,No,No,Not sure,Somewhat easy,Yes,Yes,5.0,9.0,,Yes,Yes,No,Maybe,Maybe,37,M,United States of America,NY
+28,No,100-500,Yes,Yes,Yes,Yes,Yes,Not sure,Very easy,Yes,Some,5.0,7.0,,Yes,Yes,No,Yes,No,28,M,United States of America,CO
+29,No,100-500,Yes,Yes,Yes,Yes,No,Not sure,Not sure,Yes,No,7.0,7.0,,Yes,Not sure,No,Yes,No,24,F,United States of America,MA
+30,No,100-500,Yes,Yes,Yes,No,Not sure,Not sure,Very easy,Some,Some,5.0,5.0,,No,Yes,No,No,No,27,M,United States of America,TN
+36,No,6-25,Yes,Not sure,No,No,No,Yes,Very easy,Yes,Yes,8.0,5.0,,No,Yes,Maybe,Yes,No,27,M,United States of America,TN
+37,No,100-500,Yes,Yes,Yes,No,Not sure,Not sure,Somewhat easy,No,Some,9.0,7.0,,Yes,Not sure,Maybe,Maybe,No,31,M,United States of America,NY
+41,No,100-500,Yes,Yes,Yes,Yes,Yes,Not sure,Somewhat easy,Yes,Some,3.0,6.0,,Yes,Yes,No,No,No,41,M,United States of America,CA
+53,No,26-100,Yes,Yes,Yes,No,Not sure,Not sure,Not sure,No,No,5.0,2.0,,No,Not sure,Yes,Maybe,No,37,M,United States of America,MI
+56,No,6-25,Yes,Not sure,Yes,Yes,No,Yes,Somewhat difficult,Some,No,4.0,3.0,,Yes,Yes,No,Maybe,No,30,M,United States of America,UT
+62,No,26-100,Yes,Not sure,No,No,No,Yes,Very easy,Yes,No,7.0,3.0,,No,Yes,Yes,Yes,No,28,M,United States of America,CO
+63,No,26-100,Yes,Not sure,No,No,No,Not sure,Neither easy nor difficult,Some,Yes,5.0,2.0,,Yes,Yes,Yes,No,Maybe,28,F,United States of America,CO
+67,No,More than 1000,Yes,Yes,No,No,Yes,Not sure,Not sure,No,Some,5.0,4.0,,Yes,Not sure,No,Maybe,No,55,M,United States of America,CO
+69,No,500-1000,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,Yes,Yes,10.0,5.0,,Yes,Not sure,No,Yes,Yes,33,M,United States of America,CA
+88,No,6-25,Yes,Yes,Yes,No,No,Yes,Not sure,Some,Some,5.0,5.0,,Yes,Yes,No,Maybe,No,32,M,United States of America,CO
+90,No,100-500,Yes,Not sure,No,Not sure,Not sure,Not sure,Somewhat easy,Some,Some,6.0,5.0,,Yes,Not sure,No,Yes,Maybe,39,M,United States of America,CA
+92,No,100-500,Yes,Yes,Yes,Yes,Yes,Not sure,Somewhat easy,Some,Yes,7.0,7.0,,Yes,Yes,No,Maybe,No,32,F,United States of America,MI
+94,No,More than 1000,Yes,Yes,Yes,No,Yes,Not sure,Not sure,No,Some,10.0,8.0,,No,Not sure,Yes,No,No,41,M,United States of America,IN
+97,No,100-500,Yes,Yes,No,Not sure,Yes,Not sure,Very easy,Yes,Yes,7.0,8.0,,Yes,Yes,No,No,No,31,F,United States of America,CA
+101,No,26-100,Yes,Not sure,No,No,Not sure,Yes,Somewhat easy,Some,Some,5.0,5.0,,Yes,Yes,,No,No,30,M,United States of America,TN
+102,No,26-100,Yes,Not sure,Yes,No,No,Not sure,Difficult,Some,Yes,3.0,0.0,,Yes,Yes,Yes,Maybe,No,45,F,United States of America,VT
+103,No,More than 1000,Yes,Yes,No,Yes,Yes,Not sure,Very easy,Yes,Yes,7.0,7.0,,No,No,No,Yes,Yes,30,M,United States of America,MN
+107,No,100-500,Yes,Not sure,No,No,Not sure,Not sure,Not sure,No,Some,5.0,2.0,,Yes,Not sure,Yes,Maybe,No,41,M,United States of America,IN
+109,No,6-25,Yes,Yes,Yes,No,Yes,Yes,Very easy,Yes,Yes,8.0,8.0,,Yes,Not sure,No,Yes,Maybe,42,M,United States of America,NE
+110,No,100-500,Yes,Not sure,No,No,No,Not sure,Not sure,Yes,Yes,5.0,3.0,,Yes,Yes,No,Maybe,Maybe,32,M,United States of America,KS
+111,No,100-500,Yes,Not sure,No,Not sure,Not sure,Not sure,Very easy,Yes,Some,6.0,5.0,,No,No,,Maybe,No,32,M,United States of America,NE
+112,No,1-5,Yes,Yes,Yes,No,No,Yes,Very easy,No,No,5.0,8.0,,Yes,Yes,No,Yes,Maybe,20,F,United States of America,NE
+115,No,26-100,Yes,Not sure,No,No,No,Not sure,Very easy,Yes,Some,7.0,7.0,,No,No,No,Maybe,Maybe,38,M,United States of America,NE
+116,No,6-25,Yes,Not sure,Yes,No,No,Not sure,Neither easy nor difficult,Some,Some,8.0,5.0,,Yes,Not sure,No,No,No,31,M,United States of America,NE
+117,No,26-100,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,No,No,3.0,1.0,,Yes,Yes,No,Maybe,No,26,M,United States of America,AK
+118,No,26-100,Yes,Yes,No,No,No,Yes,Somewhat easy,Yes,Yes,5.0,6.0,,Yes,Yes,Maybe,No,No,40,M,United States of America,MO
+121,No,More than 1000,Yes,Yes,Yes,Yes,Yes,Not sure,Somewhat easy,Yes,Some,5.0,5.0,,Yes,No,,Yes,Maybe,28,M,United States of America,VA
+123,No,More than 1000,Yes,Yes,No,No,Yes,Not sure,Not sure,No,No,6.0,3.0,,Yes,Yes,Yes,Yes,Maybe,30,M,United States of America,WA
+125,No,More than 1000,Yes,Not sure,No,No,No,Not sure,Not sure,Yes,Yes,10.0,3.0,,No,Not sure,No,Yes,No,30,M,United States of America,GA
+131,No,More than 1000,Yes,Yes,No,No,Not sure,Not sure,Not sure,Yes,Some,7.0,5.0,,No,Yes,,Yes,Yes,42,M,United States of America,FL
+132,No,6-25,Yes,Yes,No,No,No,Not sure,Somewhat easy,Yes,Yes,5.0,5.0,,Yes,Not sure,No,Yes,Maybe,42,M,United States of America,IL
+135,No,100-500,Yes,Yes,Yes,Not sure,Not sure,Yes,Not sure,Some,Some,8.0,5.0,,Yes,Yes,Maybe,Maybe,No,35,M,United States of America,OH
+142,No,100-500,Yes,Yes,No,No,No,Not sure,Very easy,Yes,Some,5.0,9.0,,Yes,Yes,No,No,Maybe,37,M,United States of America,OH
+152,No,26-100,Yes,Yes,Yes,Yes,Not sure,Not sure,Somewhat easy,Yes,Yes,5.0,5.0,,Yes,Yes,No,No,No,27,M,United States of America,PA
+154,No,100-500,Yes,Not sure,No,Yes,No,Yes,Somewhat difficult,Some,No,8.0,3.0,,Yes,Yes,Maybe,Maybe,No,28,M,United States of America,PA
+159,No,1-5,Yes,No,Not sure,Not sure,No,Yes,Very easy,Yes,Yes,10.0,10.0,,Yes,Yes,No,Maybe,Maybe,45,M,United States of America,CO
+163,No,26-100,Yes,Yes,Yes,Yes,Yes,Not sure,Somewhat easy,Yes,Some,6.0,7.0,,Yes,Yes,Yes,Maybe,No,29,M,United States of America,CA
+164,No,26-100,Yes,Not sure,No,No,Not sure,Not sure,Somewhat easy,Some,Some,3.0,3.0,,No,Not sure,No,No,No,40,M,United States of America,CA
+166,No,26-100,Yes,Yes,No,No,No,Not sure,Not sure,No,Some,2.0,2.0,,Yes,Yes,No,No,No,32,M,United States of America,MD
+167,No,More than 1000,Yes,Yes,Yes,Yes,Not sure,Not sure,Difficult,Yes,Some,7.0,4.0,,Yes,Yes,No,No,No,22,F,United States of America,CA
+168,No,1-5,Yes,Yes,Yes,Yes,Not sure,Yes,Very easy,Yes,Some,8.0,8.0,,Yes,Yes,Yes,Maybe,No,28,M,United States of America,CA
+169,No,More than 1000,Yes,Not sure,No,Yes,Not sure,Not sure,Not sure,No,No,5.0,4.0,,Yes,Not sure,,No,No,29,F,United States of America,MD
+171,No,100-500,Yes,Yes,No,No,Not sure,Not sure,Not sure,Some,Yes,5.0,5.0,,Yes,Yes,No,Maybe,Maybe,38,F,United States of America,IL
+172,No,26-100,Yes,Not sure,No,No,Not sure,Not sure,Very easy,No,Some,6.0,5.0,,No,No,,Maybe,No,30,M,United States of America,IL
+174,No,More than 1000,Yes,Yes,Yes,Yes,Yes,Not sure,Difficult,Some,Some,10.0,5.0,,Yes,Yes,No,No,No,38,F,United States of America,TX
+175,No,100-500,Yes,Yes,Yes,Yes,Yes,Not sure,Difficult,Some,Some,8.0,5.0,,Yes,Yes,Yes,Maybe,No,51,F,United States of America,FL
+178,No,More than 1000,Yes,Yes,Yes,Not sure,Yes,Yes,Very easy,No,Yes,7.0,5.0,,Yes,Yes,Maybe,Maybe,Maybe,26,M,United States of America,VA
+184,No,1-5,Yes,Yes,No,No,Yes,Yes,Neither easy nor difficult,Some,Some,8.0,8.0,,No,No,No,Maybe,No,63,M,United States of America,GA
+192,No,More than 1000,Yes,Not sure,No,No,Not sure,Not sure,Somewhat difficult,Some,Yes,6.0,3.0,,No,No,Yes,Maybe,No,32,M,United States of America,NY
+195,No,More than 1000,Yes,Not sure,No,No,Not sure,Not sure,Somewhat difficult,No,Some,8.0,6.0,,Yes,Yes,Yes,No,No,28,F,United States of America,NY
+198,No,6-25,Yes,Yes,No,No,No,Not sure,Somewhat difficult,Some,Some,5.0,3.0,,Yes,Yes,No,Maybe,Yes,40,M,United States of America,KS
+199,No,100-500,Yes,Not sure,No,No,No,Not sure,Somewhat easy,Yes,Some,4.0,0.0,,No,No,,Yes,No,27,M,United States of America,IL
+201,No,More than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Yes,7.0,7.0,,Yes,Yes,No,Maybe,Maybe,34,M,United States of America,NE
+202,No,6-25,Yes,Yes,Yes,Yes,Yes,Not sure,Somewhat easy,Yes,Yes,9.0,10.0,,Yes,Not sure,No,Maybe,Maybe,34,M,United States of America,TX
+204,No,100-500,Yes,Yes,Yes,No,Yes,Not sure,Not sure,Some,Some,6.0,1.0,,Yes,Yes,Yes,Maybe,No,27,F,United States of America,GA
+205,No,More than 1000,Yes,Yes,Yes,No,No,Yes,Neither easy nor difficult,Some,Some,5.0,3.0,,Yes,Yes,Yes,No,No,44,F,United States of America,MD
+208,No,100-500,Yes,Yes,Yes,Yes,Yes,Not sure,Neither easy nor difficult,Yes,Yes,8.0,10.0,,Yes,No,No,Yes,Yes,26,NB,United States of America,MI
+209,No,6-25,Yes,Yes,Yes,No,Not sure,Yes,Very easy,Yes,Yes,7.0,8.0,,No,No,No,Maybe,Maybe,39,M,United States of America,MA
+211,No,6-25,Yes,Not Applicable,Yes,No,No,Yes,Somewhat easy,Some,Some,9.0,6.0,,Yes,Yes,No,Yes,Maybe,25,F,United States of America,MI
+216,No,100-500,Yes,Yes,Yes,Yes,No,Yes,Very easy,Yes,Some,5.0,7.0,,Yes,Yes,No,Yes,Yes,39,M,United States of America,NE
+217,No,100-500,Yes,Not Applicable,Not sure,Yes,Not sure,Yes,Not sure,Some,No,5.0,5.0,,Yes,Not sure,No,No,No,19,F,United States of America,NE
+219,No,26-100,Yes,Yes,Yes,No,No,Not sure,Somewhat difficult,No,Some,0.0,0.0,,Yes,Yes,Yes,Maybe,No,38,M,United States of America,TN
+225,No,26-100,Yes,Yes,No,No,Not sure,Not sure,Very easy,Some,Some,6.0,6.0,,Yes,No,No,Yes,Maybe,42,M,United States of America,AZ
+226,No,500-1000,Yes,Not sure,Yes,No,No,Not sure,Difficult,No,Some,5.0,0.0,,No,No,No,Yes,No,39,F,United States of America,OR
+233,No,6-25,Yes,Yes,No,Yes,Not sure,Not sure,Very easy,Yes,Some,6.0,7.0,,No,Not sure,No,Maybe,Maybe,35,M,United States of America,NY
+236,No,6-25,Yes,Yes,Yes,Not sure,Not sure,Not sure,Somewhat easy,Yes,Some,10.0,10.0,,Yes,Yes,,Maybe,Maybe,29,NB,United States of America,OH
+244,No,More than 1000,Yes,Yes,Yes,Yes,Yes,Not sure,Not sure,Some,Yes,8.0,8.0,,Yes,Not sure,,No,No,29,F,United States of America,CA
+246,No,More than 1000,Yes,Not Applicable,No,No,No,Not sure,Somewhat easy,Yes,Yes,8.0,5.0,,Yes,Yes,No,Yes,No,25,F,United States of America,WA
+248,No,More than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Not sure,Some,No,8.0,7.0,,Yes,No,No,Yes,No,37,M,United States of America,CA
+249,No,6-25,Yes,Not sure,No,No,No,Not sure,Very easy,Some,Some,7.0,6.0,,No,Yes,,Maybe,Maybe,22,M,United States of America,ME
+250,No,500-1000,Yes,Yes,Yes,Yes,Yes,Not sure,Very easy,Yes,Yes,7.0,7.0,,Yes,Yes,Maybe,Yes,No,35,F,United States of America,OR
+252,No,More than 1000,Yes,Yes,Yes,Yes,Yes,Not sure,Somewhat easy,Some,Yes,8.0,5.0,,Yes,Not sure,Maybe,Yes,Maybe,45,M,United States of America,WA
+258,No,100-500,Yes,Not sure,No,Yes,Not sure,Not sure,Neither easy nor difficult,Some,Yes,4.0,4.0,,No,No,No,Yes,No,28,F,United States of America,OR
+259,No,More than 1000,Yes,Yes,No,No,Yes,Yes,Somewhat difficult,No,No,9.0,9.0,,No,No,No,No,No,25,M,United States of America,CA
+276,No,500-1000,Yes,Yes,Yes,No,Not sure,Yes,Somewhat easy,Yes,Some,7.0,3.0,,Yes,Not sure,No,Yes,Yes,27,M,United States of America,CA
+281,No,500-1000,Yes,Yes,Yes,No,No,Not sure,Neither easy nor difficult,No,Some,5.0,2.0,,Yes,Not sure,Maybe,No,No,27,F,United States of America,CA
+282,No,26-100,Yes,Yes,Yes,No,No,Yes,Very easy,Yes,No,7.0,5.0,,Yes,Yes,,No,No,47,NB,United States of America,MI
+284,No,100-500,Yes,Not sure,No,No,No,Not sure,Somewhat easy,Yes,Yes,2.0,3.0,,Yes,No,No,No,No,30,F,United States of America,CA
+288,No,More than 1000,Yes,Not sure,No,No,No,Yes,Somewhat easy,No,Some,10.0,2.0,,No,Not sure,No,Maybe,No,26,F,United States of America,WA
+289,No,More than 1000,Yes,Yes,Yes,No,No,Not sure,Neither easy nor difficult,No,No,6.0,3.0,,Yes,Yes,,Maybe,No,32,F,United States of America,WA
+290,No,More than 1000,Yes,Yes,Yes,Yes,Yes,Not sure,Difficult,Some,Some,5.0,5.0,,Yes,Yes,Yes,Maybe,No,43,F,United States of America,WA
+295,No,26-100,Yes,Not sure,No,No,No,Not sure,Somewhat easy,No,No,7.0,2.0,,No,Yes,No,Maybe,Maybe,48,NB,United States of America,VA
+296,No,100-500,Yes,Yes,Yes,No,No,Not sure,Somewhat difficult,No,No,7.0,5.0,,Yes,Not sure,Yes,Maybe,No,28,F,United States of America,CO
+297,No,6-25,Yes,No,No,No,No,Not sure,Somewhat easy,Some,Yes,5.0,2.0,,Yes,No,Yes,No,No,26,F,United States of America,VA
+301,No,26-100,Yes,Not sure,No,No,No,Not sure,Somewhat easy,No,Some,5.0,5.0,,Yes,Not sure,,Maybe,Maybe,34,M,United States of America,MI
+307,No,100-500,Yes,Yes,Yes,Yes,Yes,Not sure,Somewhat easy,Yes,Some,7.0,7.0,,Yes,Yes,No,Maybe,No,34,F,United States of America,MA
+310,No,26-100,Yes,Not sure,No,No,No,Not sure,Difficult,Some,Some,3.0,0.0,,Yes,Yes,Yes,Maybe,Maybe,41,M,United States of America,OH
+312,No,More than 1000,Yes,Yes,Yes,Yes,Yes,Not sure,Somewhat easy,No,Some,8.0,8.0,,Yes,Yes,No,Maybe,Maybe,42,F,United States of America,CA
+313,No,100-500,Yes,Not sure,Not sure,No,Not sure,Yes,Very easy,Yes,Yes,6.0,8.0,,Yes,Yes,No,Maybe,No,21,M,United States of America,OH
+314,No,26-100,Yes,Yes,Yes,Yes,No,Yes,Somewhat difficult,Yes,Yes,9.0,3.0,,No,Yes,No,No,No,30,F,United States of America,IL
+315,No,100-500,Yes,Yes,Yes,Yes,Yes,Yes,Not sure,Yes,Yes,8.0,8.0,,Yes,No,No,No,Maybe,46,M,United States of America,NY
+322,No,More than 1000,Yes,Not sure,No,Yes,Yes,Not sure,Not sure,No,Yes,8.0,6.0,,Yes,Not sure,No,No,No,47,F,United States of America,NC
+323,No,26-100,Yes,Yes,Yes,No,Not sure,Yes,Somewhat easy,Yes,Some,8.0,5.0,,Yes,Not sure,,Yes,No,24,M,United States of America,UT
+324,No,More than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Some,Yes,7.0,7.0,,Yes,No,No,No,No,40,M,United States of America,UT
+325,No,100-500,Yes,Yes,Yes,No,No,Not sure,Neither easy nor difficult,No,No,5.0,5.0,,Yes,Not sure,No,Yes,No,37,M,United States of America,CO
+326,No,More than 1000,Yes,Not sure,No,No,Yes,Not sure,Somewhat easy,Yes,Some,5.0,3.0,,No,Not sure,Yes,No,Maybe,38,M,United States of America,WA
+327,No,More than 1000,Yes,Not sure,No,Not sure,Yes,Not sure,Somewhat difficult,Yes,Yes,2.0,0.0,,Yes,No,No,No,No,47,M,United States of America,WA
+328,No,More than 1000,Yes,Yes,Yes,Yes,Yes,Yes,Neither easy nor difficult,Yes,Some,5.0,5.0,,Yes,Yes,Yes,Maybe,No,30,F,United States of America,WA
+333,No,More than 1000,Yes,Not sure,No,No,Not sure,Yes,Not sure,Some,No,7.0,0.0,,Yes,Not sure,,Maybe,No,42,M,United States of America,CO
+336,No,More than 1000,Yes,Yes,Yes,Yes,Not sure,Not sure,Somewhat easy,No,No,7.0,2.0,,No,Yes,No,Yes,No,55,M,United States of America,AZ
+337,No,500-1000,Yes,Not sure,No,Not sure,Not sure,Not sure,Very easy,Some,Some,5.0,5.0,,Yes,Yes,Yes,Maybe,No,34,NB,United States of America,LA
+344,No,100-500,Yes,Yes,No,No,Not sure,Not sure,Somewhat difficult,No,No,4.0,2.0,,Yes,Yes,Yes,Maybe,No,42,F,United States of America,TX
+346,No,6-25,Yes,No,No,No,No,Not sure,Very easy,Some,No,8.0,5.0,,No,No,,No,No,31,F,United States of America,CA
+351,No,More than 1000,Yes,Yes,Yes,No,Yes,Yes,Somewhat difficult,Some,No,5.0,3.0,,Yes,Yes,,Maybe,Yes,24,F,United States of America,OR
